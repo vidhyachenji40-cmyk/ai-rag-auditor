@@ -1,0 +1,12 @@
+# API Keys and Secrets
+.env
+keys.txt
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+venv/

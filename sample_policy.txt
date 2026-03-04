@@ -1,0 +1,3 @@
+Applied AI Project 2026
+Topic: Automated RAG Evaluation
+Details: This project uses Gemini and Ragas to ensure high accuracy in document retrieval. It is designed for enterprise compliance at companies like Walmart and PayPal. The goal is to reach an accuracy score of 0.85 or higher.
